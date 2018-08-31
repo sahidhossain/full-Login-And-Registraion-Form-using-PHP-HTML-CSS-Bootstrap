@@ -36,7 +36,7 @@
 					</span>
 					<div class="container-login100-form-btn">
 						<button formaction="userlogin.php" class="login100-form-btn">
-							User
+							User/Student
 						</button>
 					</div>
 					
