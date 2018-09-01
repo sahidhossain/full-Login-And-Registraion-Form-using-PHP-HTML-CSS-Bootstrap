@@ -1,7 +1,7 @@
 # full Login And Registraion Form using PHP ,HTML,CSS,Bootstrap
 First u have to install XAMPP or Wamp , i used xampp that's why i will tell how to install  this website on xampp.
 
-install Xampp
+install Xampp,
 go to xampp control panel from windows
 and start mysql and apache from control panel
 then go to file explorer
